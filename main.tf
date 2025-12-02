@@ -64,3 +64,4 @@ resource "azurerm_mssql_database" "sqldb" {
   server_id           = azurerm_mssql_server.sqlserver.id
   sku_name            = "S0"
 }
+#
