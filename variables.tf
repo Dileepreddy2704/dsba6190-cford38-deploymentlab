@@ -8,6 +8,7 @@ variable "tag_instructor" {
   default = "cford38"
 }
 
+#fff
 
 variable "tag_semester" {
   type    = string
